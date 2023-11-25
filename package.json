@@ -22,7 +22,7 @@
     "rollup": "^4.1.0",
     "simple-yenc": "1.0.1",
     "terser": "^5.21.0",
-    "web-worker": "^1.1.0",
+    "web-worker": "github:chanmathew/web-worker",
     "mpg123-decoder": "file:src/mpg123-decoder",
     "ogg-opus-decoder": "file:src/ogg-opus-decoder",
     "opus-decoder": "file:src/opus-decoder",
